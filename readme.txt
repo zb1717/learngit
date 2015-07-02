@@ -3,3 +3,5 @@ hahahahahahaha
 fafafafafaf
 jhjhjhjhjhj
 git tracks changes.
+
+Create a new branch is quick
